@@ -1,4 +1,4 @@
-# 🕒 Ponto Eletrônico Escolar
+# 🕒 MEU RH - Ponto Eletrônico 
 
 Sistema de controle de ponto para funcionários, desenvolvido em **C#** com **Windows Forms**.
 
